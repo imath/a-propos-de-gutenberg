@@ -1,8 +1,8 @@
 # Une nouvelle manière d'écrire dans WordPress
 
-Une nouvelle expérience de publication pour vos sites WordPress est en cours d'élaboration : tenez vous prêts car vos textes, vos images et vos mises en page s'afficheront comme vous l'imaginez, sans requérir de programmation particulière.
+Une nouvelle expérience de publication pour vos sites WordPress est en cours d'élaboration : tenez-vous prêts car vos textes, vos images et vos mises en page s'afficheront comme vous l'imaginez, sans requérir de programmation particulière.
 
-Vous avez sans doute entendu parler de ce projet - Il s'appelle Gutenberg, en référence à l'invention qui a révolutionné l'imprimerie - et vous vous demandez certainement ce que ça implique pour vous. Qui sera impacté le plus et comment votre manière de travailler au quotidien changera ? La réponse est tous et tout. L'éditeur Gutenberg utilise des blocs pour créer tout type de contenu, remplaçant ainsi plus d'une demi-douzaine de façons plus ou moins cohérentes de personnaliser WordPress. Il respecte les standards modernes de code et s'inscrit dans les initiatives du web ouvert. Ces blocs de contenu transforment la manière dont les utilisateurs, les développeurs et les hébergeurs interragissent avec WordPress pour simplifier et améliorer l'intuitivité de l'édition de contenus riches rendant la publication et le travail plus accessible à tous quelque soit vos compétences techniques.
+Vous avez sans doute entendu parler de ce projet - Il s'appelle Gutenberg, en référence à l'invention qui a révolutionné l'imprimerie - et vous vous demandez certainement ce que ça implique pour vous. Qui sera impacté le plus et comment votre manière de travailler au quotidien changera ? La réponse est tous et tout. L'éditeur Gutenberg utilise des blocs pour créer tout type de contenu, remplaçant ainsi plus d'une demi-douzaine de façons plus ou moins cohérentes de personnaliser WordPress. Il respecte les standards modernes de code et s'inscrit dans les initiatives du web ouvert. Ces blocs de contenu transforment la manière dont les utilisateurs, les développeurs et les hébergeurs interagissent avec WordPress pour simplifier et améliorer l'intuitivité de l'édition de contenus riches rendant la publication et le travail plus accessibles à tous quelques soient vos compétences techniques.
 
 C'est génial que tant de personnes pensent qu’utiliser WordPress est le meilleur moyen de déposer ses idées sur le Net. S'il est très facile de libérer le pouvoir de WordPress lorsqu’on sait coder, maîtriser le code n’est pas donné à tout le monde. Maintenant ce n’est plus une nécessité.
 
@@ -10,15 +10,13 @@ C'est génial que tant de personnes pensent qu’utiliser WordPress est le meill
 
 ![L’interface d’édition principale](https://wordpress.org/gutenberg/files/2017/12/Gutenberg.png)
 
-L’interface d’édition principale
-
 Comme nous espérons obtenir beaucoup de retours d’information et de remontées quant à vos tests en conditions réelles de cette nouvelle expérience, nous la mettons à votre disposition sous la forme d’une extension. Pour éprouver cette nouvelle façon de travailler avec WordPress, depuis l’administration de votre site, activez le menu des extensions. Cliquez sur le lien pour en ajouter une nouvelle et indiquez « Gutenberg » dans le champ de recherche.
 
 Vous pouvez aussi directement télécharger [l'extension Gutenberg](https://wordpress.org/plugins/gutenberg/) et la téléverser dans votre site.
 
 ## Aidez-nous à bâtir le futur
 
-_Le développement de Gutenberg s'organise depuis GitHub, et ce guide est une bonne ressource pour commencer à se familiariser avec le projet._
+_Le développement de Gutenberg s'organise depuis GitHub, et [ce guide](http://wordpress.org/gutenberg/handbook) est une bonne ressource pour commencer à se familiariser avec le projet._
 
 L'équipe est impatiente d'entendre parler de votre expérience avec Gutenberg ! Saisissez cette formidable opportunité d'avoir un impact réel sur l'avenir de WordPress. Explorez et utilisez Gutenberg, partagez ensuite vos opinions - utilisez [ce lien](https://wordpressdotorg.polldaddy.com/s/gutenberg-support) pour nous en envoyez autant que vous le souhaitez.
 
